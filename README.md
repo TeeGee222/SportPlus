@@ -1,5 +1,4 @@
 # SportPlus
-Site de sport
 
 - Gestion utilisateurs (inscription / connexion / mail de vérification (python) / deconnexion)
 - Création / modification de séances de musculation/sport en tout genre.
