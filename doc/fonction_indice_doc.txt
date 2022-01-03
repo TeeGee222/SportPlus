@@ -1,0 +1,26 @@
+serie de 6 repetition impossible de faire la 7eme 
+prendre le poids que ta fais 
+
+
+
+Calculer son taux de masse musculaire idéal
+Les formules de calcul
+Bien que de nombreux calculateurs et outils en ligne existent, vous pouvez directement vous pencher sur la formule de calcul du taux de masse musculaire idéal : 
+
+Hommes : 0,407 * poids en kg + 0,267 * taille en cm – 19,2.
+
+Femmes : 0,252 * poids en kg + 0,473 * taille en cm – 48,3.
+
+
+Le calcul de l' indice de masse corporelle (en anglais BMI pour Body Mass Index) est :
+
+Poids/Taille²
+
+
+https://entrainement-sportif.fr/indice-masse-corporelle.htm#comment
+http://nutrition-flexible.fr/ffmi/
+
+A partir de l'indice de masse corporelle, il est possible d'extrapoler, et de proposer un poids idéal, correspondant à un IMC idéal de 21.75 kg/m², tout en obtenant une fourchette de valeurs considérées comme normales entre 18.5 et 25 kg/m². On peut donc appliquer la formule suivante pour connaitre le poids idéal.
+
+poids idéal = taille²(m)*21.75
+Prenons le cas d'un adulte mesurant 1,70 m. Son poids idéal précis est égal à 1.70 * 1.70 * 21.75 soit 62.75 kg. Puisque les valeurs extrêmes d'un IMC normal sont 18.5 et 25 on peut dire que son poids idéal minimal est 1.70 * 1.70 * 18.5 soit 53.45 kg, quant à son poids idéal maximal il est égal à 1.70 * 1.70 * 25 soit 72.25 kg. Il y a presque 19 kilos de différence entre les valeurs extrêmes du poids idéal ! inutile donc de vous alarmer pour une petite prise de poids si vous êtes dans cet intervalle. Votre santé n'est pas en danger. Continuez à manger sain et équilibré, pratiquez quotidiennement une activité physique et profitez du moment présent en pratiquant la méditation de pleine conscience ce qui aura un effet bénéfique sur le niveau de votre stress. Si vous vous écartez de ces valeurs consultez les propositions d'interventions du paragraphe suivant.
