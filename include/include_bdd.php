@@ -4,13 +4,13 @@
  */
 
 // Localisation de la BDD
-define('HOST', 'sportplus.ddns.net');
+define('HOST', '');
 
 // Nom d'utilisateur
-define('USER', 'aubin');
+define('USER', '');
 
 // Mot de passe
-define('PASSWD', '2003tag23');
+define('PASSWD', '');
 
 // Nom de la base de donnée
 define('DBNAME', 'sport+');
